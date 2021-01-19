@@ -18,8 +18,10 @@ RPDE,D2 - Two nonlinear dynamical complexity measures
 DFA - Signal fractal scaling exponent
 spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation 9. car name: string (unique for each instance)
 Learning Outcomes:
+
 ● Exploratory Data Analysis
 ● Supervised Learning
 ● Ensemble Learning
+
 Objective:
 Goal is to classify the patients into the respective labels using the attributes from their voice recordings
